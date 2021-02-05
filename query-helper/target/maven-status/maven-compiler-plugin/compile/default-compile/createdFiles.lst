@@ -1,0 +1,15 @@
+me\learnjava\queryhelper\exception\ProcessorNotFoundException.class
+me\learnjava\queryhelper\support\CommonMapper.class
+me\learnjava\queryhelper\support\Holder.class
+me\learnjava\queryhelper\support\PaginationQueryDataPack.class
+me\learnjava\queryhelper\core\QueryInterceptor.class
+me\learnjava\queryhelper\exception\PaginationQueryException.class
+me\learnjava\queryhelper\core\ResultInterceptor.class
+me\learnjava\queryhelper\Test.class
+me\learnjava\queryhelper\support\PaginationQueryDataTransporter.class
+me\learnjava\queryhelper\exception\QueryResultProcessException.class
+me\learnjava\queryhelper\core\QueryHelperDefinitionsMapHolder.class
+me\learnjava\queryhelper\support\CommonPaginationQueryDataPack.class
+me\learnjava\queryhelper\exception\ProcessorTypeNotMatchException.class
+me\learnjava\queryhelper\support\CommonPaginationQueryResult.class
+me\learnjava\queryhelper\support\PaginationQueryResultAdapter.class
